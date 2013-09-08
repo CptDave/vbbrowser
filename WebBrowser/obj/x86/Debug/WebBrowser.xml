@@ -15,6 +15,14 @@ WebBrowser
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
+</member><member name="P:WebBrowser.My.Resources.Resources.HomePage">
+	<summary>
+  Looks up a localized string similar to http://google.com.
+</summary>
+</member><member name="P:WebBrowser.My.Resources.Resources.OpenFullScreen">
+	<summary>
+  Looks up a localized string similar to false.
+</summary>
 </member><member name="T:WebBrowser.My.Resources.Resources">
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
