@@ -1,0 +1,19 @@
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\bin\Debug\WebBrowser.xml
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.Form1.resources
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.Resources.resources
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.vbproj.GenerateResource.Cache
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.exe
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.xml
+C:\Users\David\AppData\Local\Temporary Projects\WebBrowser\obj\x86\Debug\WebBrowser.pdb
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.exe
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.xml
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.pdb
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.xml
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Form1.resources
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Resources.resources
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.vbproj.GenerateResource.Cache
+C:\Users\David\documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.settings.resources
